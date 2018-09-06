@@ -53,7 +53,7 @@ header {
 h1 {
   font-size: 5vw;
   font-family: "Poppins", sans-serif;
-  line-height: 5vw;
+  line-height: 2vw;
   text-align: justify; /*text not wrapping */
   margin: 1em;
 }
